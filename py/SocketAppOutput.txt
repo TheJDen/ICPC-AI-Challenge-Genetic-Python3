@@ -1,0 +1,12 @@
+process started
+bytes received: 2708, validity: true
+outputting to std out
+sending data
+bytes received: 2708, validity: true
+outputting to std out
+sending data
+bytes received: 2708, validity: true
+outputting to std out
+sending data
+receive from ue4 failed
+receive from ue4 failed
